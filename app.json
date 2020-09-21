@@ -1,0 +1,12 @@
+{
+  "name": "app05-native-react-app",
+  "displayName": "app05-native-react-app",
+  "expo": {
+    "name": "app05-native-react-app",
+    "slug": "app05-native-react-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
